@@ -7,9 +7,5 @@
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="160"> <!-- 피카츄 -->
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png" width="160"> <!-- 뮤 -->
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png" width="160"> <!-- 세레비 -->
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png" width="160"> <!-- 조로아 -->
-</p>
-</p>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="200"> <!-- 피카츄 -->
+
